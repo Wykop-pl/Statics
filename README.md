@@ -2,7 +2,7 @@
 
 WWW Statics
 
-![Wykop.pl](1280x640.png)
+![Wykop.pl](wykop-uci-recznie.png)
 
 ## Autor
 
